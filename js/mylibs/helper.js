@@ -95,7 +95,7 @@ MBP.hideUrlBarOnLoad = function () {
 /*
    * Fast Buttons - read wiki below before using
    * https://github.com/h5bp/mobile-boilerplate/wiki/JavaScript-Helper
-*/
+
 
 MBP.fastButton = function (element, handler) {
   this.handler = handler;
@@ -196,6 +196,7 @@ if (document.addEventListener) {
 addEvt( document.documentElement, 'touchstart', function() {
   MBP.hadTouchEvent = true;
 }, false);
+*/
 
 MBP.coords = [];
 
