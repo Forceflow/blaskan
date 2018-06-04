@@ -1,3 +1,5 @@
+Forceflow: This is my fork of Blaskan. The design changed dramatically in 2017, so I'm keeping a 2016-era version alive, with some WP fixes where needed
+
 WordPress theme Blaskan:
 ------------------------
 Author: Per Sandström
